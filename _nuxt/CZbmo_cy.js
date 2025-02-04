@@ -2080,7 +2080,7 @@ const wn = ["id"],
                       f,
                       {
                         class: X(["copy-email", { "is-copying": y(n) }]),
-                        "on-click": () => window.open('https://x.com/arago_eth'),
+                        "on-click": () => window.open('https://x.com/AragoAI'),
                       },
                       {
                         default: C(() => [
