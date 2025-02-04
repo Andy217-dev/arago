@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+  <defs>
+    <symbol id="heading-marker" viewBox="0 0 16 16" fill="none">
+      <path d="M0 0H6.5V6.5H0V0Z" fill="currentColor"/>
+      <path d="M9.5 0H16V6.5H9.5V0Z" fill="currentColor"/>
+      <path d="M9.5 9.5H16V16H9.5V9.5Z" fill="currentColor"/>
+      <path d="M0 9.5H6.5V16H0V9.5Z" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="arrow" viewBox="0 0 16 16" fill="none">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M5.76699 1H15V10.7983H13.4925V3.57333L1.21239 15.8535L0.146484 14.7876L12.4266 2.50742H5.76699V1Z" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="point-of-interest" viewBox="0 0 16 16" fill="none">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M14.8571 1.14286H1.14286V14.8571H14.8571V1.14286ZM0 0V16H16V0H0Z" fill="currentColor" fill-opacity="0.5"/>
+      <rect x="4.57129" y="4.57031" width="6.85714" height="6.85714" fill="currentColor"/>
+    </symbol>
+
+    <symbol id="point-of-interest-marker" viewBox="0 0 16 16" fill="none">
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M14.2222 1.77778H1.77778V14.2222H14.2222V1.77778ZM0 0V16H16V0H0Z" fill="currentColor" fill-opacity="0.5"/>
+      <path d="M4.5708 4.56641H11.6819V11.6775H4.5708V4.56641Z" fill="currentColor"/>
+    </symbol>
+  </defs>
+</svg>
